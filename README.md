@@ -5,8 +5,48 @@ Data is sourced from: https://insights.stackoverflow.com/survey
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. 
-See deployment for notes on how to deploy the project on a live system.
+From the report on https://insights.stackoverflow.com/survey/2018, a list of interesting topics are the starting point for the initial exploration. 
+
+
+1.	Developer Type (which is used to identify the 'data scientist') 
+2.	Geography
+3.	Coding as a Hobby
+4.	Years Since Learning to Code
+5.	Years Coding Professionally
+6.	Educational Attainment
+7.	Undergraduate Major
+8.	Other Types of Education
+9.	Gender (which is used to identify 'female')
+10.	Race and Ethnicity
+11.	Sexual Orientation
+12.	Parents' Education Level
+13.	Age
+14.	Experience and Belonging
+15.	Children and Other Dependants
+16.	What Time Do Developers Wake Up?
+17.	How Much Time Do Developers Spend on a Computer?
+18.	How Much Time Do Developers Spend Outside?
+19.	Healthy Habits
+20.	Programming, Scripting, and Markup Languages
+21.	AI Concerns by Developer Type
+22.	How Do Developers Feel About the Future of AI?
+23.	What Do Developers Think Is Dangerous and Exciting About AI?
+24.	Employment Status
+25.	Industry
+26.	Company Size
+27.	What Do Developers Hope To Be Doing in Five Years?
+28.	How Do Developers Feel About Their Careers and Jobs?
+29.	What Would Developers Do If Asked to Write Code for an Unethical Purpose?
+30.	How Would Developers Report Ethical Problems with Code?
+31.	Who Is Ultimately Most Responsible for Code That Accomplishes Something Unethical?
+32.	Do Developers Have an Obligation to Consider the Ethical Implications of Their Code?
+33.	Job Search Status
+34.	How Long Ago Did Developers Last Change Jobs?
+35.	How Do Developers Assess Potential Jobs?
+36.	What Developers Value in Compensation and Benefits
+37.	How Long Do Developers Expect New Coworkers to Take to Be Productive?
+38.	How Often Do Developers Check In Code?
+
 
 ### Prerequisites
 
